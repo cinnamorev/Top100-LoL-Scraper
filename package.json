@@ -1,0 +1,15 @@
+{
+  "name": "op.gg-leaderboard-scraper",
+  "version": "1.0.0",
+  "description": "Scrape LoL Summoner Names from the Challenger Leaderboard on OP.GG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cinnamorev",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "puppeteer": "^14.1.1"
+  }
+}
